@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>tetofoeventbusbidirectional</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>PavelBobek</Authors>
     <Company>tetofo</Company>
   </PropertyGroup>
